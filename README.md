@@ -10,13 +10,13 @@ This is the code repository for [Getting Started with Qt 5](https://www.packtpub
 Qt is a cross-platform application framework and widget toolkit that is used to create GUI applications that can run on different hardware and operating systems. The main aim of this book is to introduce Qt to the reader. Through the use of simple examples, we will walk you through building blocks without focusing too much on theory.
 
 This book covers the following exciting features:
-Set up and configure your machine to begin developing Qt applications 
-Discover different widgets and layouts for constructing UIs 
-Understand the key concept of signals and slots 
-Understand how signals and slots help animate a GUI 
-Explore how to create customized widgets along with signals and slots 
-Understand how to subclass and create a custom windows application 
-Understand how to write applications that can talk to databases. 
+* Set up and configure your machine to begin developing Qt applications 
+* Discover different widgets and layouts for constructing UIs 
+* Understand the key concept of signals and slots 
+* Understand how signals and slots help animate a GUI 
+* Explore how to create customized widgets along with signals and slots 
+* Understand how to subclass and create a custom windows application 
+* Understand how to write applications that can talk to databases. 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178995603X) today!
 
